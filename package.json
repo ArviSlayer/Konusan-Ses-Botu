@@ -1,0 +1,23 @@
+{
+  "name": "acar-ses-botlari",
+  "version": "0.0.2",
+  "description": "ACAR Ses Botları",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "acar",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "google-tts-api": "^2.0.0",
+    "opusscript": "0.0.7",
+    "request": "^2.88.2"
+  },
+  "keywords": []
+}
